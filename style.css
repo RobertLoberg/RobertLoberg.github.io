@@ -4,15 +4,15 @@ body {
 .home{
 	color:#ffffff;
 	text-decoration:none;
-	margin-right:65%;
-	font-size:300%;
+	margin-right:5%;
+	font-size:250%;
 	font-family:arial;
 }
 .projects{
 	color:#ffffff;
 	text-decoration:none;
 	text-align:right;
-	margin-right:1%;
+	width:100%;
 	font-size:120%;
 	font-family:arial;
 }
@@ -20,6 +20,7 @@ body {
 	color:#ffffff;
 	text-decoration:none;
 	text-align:right;
+	width:100%;
 	margin-right:1%;
 	font-size:120%;
 	font-family:arial;
@@ -28,6 +29,7 @@ body {
 	color:#ffffff;
 	text-decoration:none;
 	text-align:right;
+	width:100%;
 	margin-right:1%;
 	font-size:120%;
 	font-family:arial;
@@ -49,3 +51,4 @@ body {
 .NavBar1 a:hover {
 	color:#eaeaea;	
 }
+	
