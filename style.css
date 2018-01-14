@@ -1,0 +1,51 @@
+body {
+	background-color:#000000;
+}
+.home{
+	color:#ffffff;
+	text-decoration:none;
+	margin-right:5%;
+	font-size:300%;
+	font-family:arial;
+}
+.projects{
+	color:#ffffff;
+	text-decoration:none;
+	text-align:right;
+	margin-right:1%;
+	font-size:120%;
+	font-family:arial;
+}
+.resume{
+	color:#ffffff;
+	text-decoration:none;
+	text-align:right;
+	margin-right:1%;
+	font-size:120%;
+	font-family:arial;
+}
+.future{
+	color:#ffffff;
+	text-decoration:none;
+	text-align:right;
+	margin-right:1%;
+	font-size:120%;
+	font-family:arial;
+}
+.topblock {
+	background-color:#af0000;
+	width:100%;
+	hight:300px;
+	
+}
+.NavBar1 {
+	background-color:#af0000;
+	margin-left:-10px;
+	margin-top:-10px;
+	margin-right:-10px;
+	overflow:hidden;
+	
+}
+.NavBar1 a:hover {
+	color:#eaeaea;	
+}
