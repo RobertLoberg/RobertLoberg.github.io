@@ -1,15 +1,17 @@
 body {
-	background-color: #000000;
+	background-color: #ffffff;
+	margin: 0;
+	padding: 0;
 }
 .home{
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	margin-right: 1%;
 	font-size: 250%;
 	font-family: arial;
 }
 .projects{
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	text-align: right;
 	width: 100%;
@@ -18,7 +20,7 @@ body {
 	font-family: arial;
 }
 .resume{
-	color: #ffffff;
+	color: #000000;
 	text-decoration: none;
 	text-align: right;
 	width: 100%;
@@ -26,20 +28,23 @@ body {
 	font-family: arial;
 }
 .NavBar1 {
-	background-color: #af0000;
-	margin-left: -10px;
-	margin-top: -10px;
-	margin-right: -10px;
+	background-color: #d7cec7;
 	overflow: hidden;
 }
 .NavBar1 a:hover {
 	color: #eaeaea;	
+}
+.banner {
+	width: 100%;
+	height: 220px;
+	overflow: hidden;
 }
 h1{
 	color: white;
 	text-align: center;
 	font-size: 160%;
 	font-family: arial;
+	margin-top: -175px;
 }	
 p{
 	color: white;
