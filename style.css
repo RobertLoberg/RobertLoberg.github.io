@@ -13,6 +13,7 @@ body {
 	text-decoration:none;
 	text-align:right;
 	width:100%;
+	margin-right:1%;
 	font-size:120%;
 	font-family:arial;
 }
@@ -21,15 +22,8 @@ body {
 	text-decoration:none;
 	text-align:right;
 	width:100%;
-	margin-right:1%;
 	font-size:120%;
 	font-family:arial;
-}
-.topblock {
-	background-color:#af0000;
-	width:100%;
-	hight:300px;
-	
 }
 .NavBar1 {
 	background-color:#af0000;
