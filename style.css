@@ -34,9 +34,25 @@ body {
 .NavBar1 a:hover {
 	color: #eaeaea;	
 }
-.banner {
+.footer {
+	position:fixed;
+   	bottom:0;
+   	left:0;
+   	width:100%;
+   	height:20px;
+	background-color: #8C8C8C;
+	overflow: hidden;
+	text-align: bottom-left;
+}
+.banner1 {
 	width: 100%;
-	height: 220px;
+	height: 280px;
+	overflow: hidden;
+}
+.banner2 {
+	width: 100%;
+	height: 300px;
+	padding-top: 70px;
 	overflow: hidden;
 }
 .first{
@@ -45,28 +61,49 @@ body {
 .first h1{
 	color: white;
 	text-align: center;
-	font-size: 160%;
+	font-size: 200%;
 	font-family: arial;
-	margin-top: -185px;
+	margin-top: -240px;
 }	
 .first p{
 	color: white;
 	text-align: center;
-	font-size: 140%;
+	font-size: 180%;
 	font-family: arial;
 }	
+.second{
+
+}
+.second h1{
+	color: white;
+	text-align: center;
+	font-size: 200%;
+	font-family: arial;
+	margin-top: -185px;
+}	
+.second p{
+	color: white;
+	text-align: center;
+	font-size: 180%;
+	font-family: arial;
+}	
+
 .table {
-	padding-top: 60px;
+	padding-top: 100px;
 	width: 100%;
 	text-align: center;
 	font-family: arial;
 }
 .table th {
-	font-size: 160%;
+	font-size: 200%;
 }
 .table td {
-	font-size: 140%;
+	font-size: 180%;
 }
-.table th:hover {
+.table a:hover {
 	color: #eaeaea;	
+}
+.table a{
+	color: black;
+	text-decoration: none;
 }
