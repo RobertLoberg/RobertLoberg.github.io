@@ -39,16 +39,34 @@ body {
 	height: 220px;
 	overflow: hidden;
 }
-h1{
+.first{
+
+}
+.first h1{
 	color: white;
 	text-align: center;
 	font-size: 160%;
 	font-family: arial;
-	margin-top: -175px;
+	margin-top: -185px;
 }	
-p{
+.first p{
 	color: white;
 	text-align: center;
 	font-size: 140%;
 	font-family: arial;
 }	
+.table {
+	padding-top: 60px;
+	width: 100%;
+	text-align: center;
+	font-family: arial;
+}
+.table th {
+	font-size: 160%;
+}
+.table td {
+	font-size: 140%;
+}
+.table th:hover {
+	color: #eaeaea;	
+}
