@@ -1,11 +1,8 @@
 Robert Loberg 0980340
 Assignment Description: Spell checker
-How to Run: enter file directory and type "make" and then "./testmain"
+How to Run: enter file directory and type "make" and then "./testmain" to run program.
 Optional Features: None
 Assumptions: None
-
-Program works fine in testmain but when the user enteres words to be added it can only add one word and can not delete it. i believe this is an error in the insertData function but for some reason it works in the test main. Program also does not read in a file (take off marks for such). No menu options work perfectly accept for exit (3 & 4) are not implemented.
-
 
 
 hash function and collision resolution strategy:
