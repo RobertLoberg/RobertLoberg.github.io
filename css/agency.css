@@ -173,10 +173,11 @@ img::-moz-selection {
   }
 }
 
+/*test*/
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg2.jpg");
+  background-image: url("../img/bg1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
